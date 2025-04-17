@@ -42,8 +42,7 @@ J: 1 250 180
 ```
 
 ## 📡 Hercules Sozlamalari
-![Hercules Setup](https://via.placeholder.com/600x300?text=Hercules+Serial+Config)  
-*(Rasmni o'zingizning skrinshotingiz bilan almashtiring)*
+![Hercules Setup](https://github.com/savdoyi/STM32F103C8T6-ComPortTest/blob/main/hercules.png)
 
 📧 Savollar uchun: [savdoyi@ya.ru](mailto:savdoyi@ya.ru)  
 🔗 Repo: [github.com/savdoyi/STM32F103C8T6-ComPortTest](https://github.com/savdoyi/STM32F103C8T6-ComPortTest)
