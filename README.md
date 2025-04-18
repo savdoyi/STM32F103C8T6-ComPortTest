@@ -36,8 +36,8 @@ J: 1 250 180
 ## ⚠️ Eslatmalar
 ```bash
 # Hozirgi cheklovlar:
-- Tezlik parametri (vvv) hozir ishlamaydi (default=200 RPM)
-- "2" (to'xtatish) komandasi ishlamaydi
+- Tezlik parametri (vvv) hozir ishlamaydi (default)
+- "2" (to`xtatish) komandasi ishlamaydi
 - 1.8° = 1 step (NEMA17 uchun TB6600 ning default sozlamasi asosida)
 ```
 
