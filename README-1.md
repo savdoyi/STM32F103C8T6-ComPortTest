@@ -41,7 +41,7 @@ J: 1 250 180
 ```
 
 ## 📡 Hercules Sozlamalari
-![Hercules Setup](ComPortTest/hercules.png?text=Hercules+Serial+Config)  
+![Hercules Setup]([ComPortTest/hercules.png?](https://github.com/savdoyi/STM32F103C8T6-ComPortTest/blob/main/hercules.png?text=Hercules+Serial+Config)  
 
 📧 Savollar uchun: [savdoyi@ya.ru](mailto:savdoyi@ya.ru)  
 🔗 Repo: [github.com/savdoyi/STM32F103C8T6-ComPortTest](https://github.com/savdoyi/STM32F103C8T6-ComPortTest)
