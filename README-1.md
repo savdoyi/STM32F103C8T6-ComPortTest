@@ -13,8 +13,8 @@
 ## 📟 Command Syntax
 ```bash
 # Format: [d][vvv][ddd]
-d   : 0=CCW, 1=CW, 2=Stop (2 hozircha ishlamaydi)
-vvv : 001-999 (tezlik, hozir default 200 RPM)
+d   : 0=CCW, 1=CW, 2=Stop
+vvv : 001-999 (tezlik, hozir default 120 RPM)
 ddd : 001-999 (gradusda burchak)
 
 # Namuna:
@@ -29,8 +29,8 @@ ddd : 001-999 (gradusda burchak)
 3. Quyidagi formatda buyruq yuboring:
 ```plaintext
 [Direction][Speed][Angle]
-M: 0 300 045
-J: 1 250 180
+0 300 045
+1 250 180
 ```
 
 ## ⚠️ Eslatmalar
@@ -41,7 +41,7 @@ J: 1 250 180
 ```
 
 ## 📡 Hercules Sozlamalari
-![Hercules Setup](STM32F103C8T6-ComPortTest/blob/main/hercules.png)  
+![Hercules Setup](https://github.com/savdoyi/STM32F103C8T6-ComPortTest/blob/main/hercules.png)  
 
 📧 Savollar uchun: [savdoyi@ya.ru](mailto:savdoyi@ya.ru)  
 🔗 Repo: [github.com/savdoyi/STM32F103C8T6-ComPortTest](https://github.com/savdoyi/STM32F103C8T6-ComPortTest)
